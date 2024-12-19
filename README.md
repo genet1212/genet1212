@@ -1,4 +1,4 @@
-# Hi there, I'm Genet! 👋
+#                         Hi there 👋 , I'm Genet! 
 
 Welcome to my GitHub profile! I'm a passionate developer who loves to explore new technologies and solve interesting problems. Here's a little bit about me:
 
